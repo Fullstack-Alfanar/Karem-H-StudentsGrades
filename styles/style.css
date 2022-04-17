@@ -1,0 +1,39 @@
+.container{
+    background-color: gold;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.btn{
+  background-color:deepskyblue ;  
+  border-radius: 5px;
+  width: 50px;
+
+}
+
+h4{
+    background-color: rgb(50, 81, 255);
+    border-radius: 5px;
+}
+
+.cards{
+    
+    width: 200px;
+    height: 200px;
+    margin: 7px;
+    padding: 3px;
+    padding-top: 1px;
+    background-color: deepskyblue;
+    
+    border-radius: 5px;
+}
+.tbl{
+    
+    width: 300px;
+    border-style: dashed;
+    
+}
+table, th, td {
+    border: 1px solid;
+  }
